@@ -43,6 +43,9 @@ main h3 a:focus {
 .shadow{
 	color:#800000;
 }
+:root {
+    --main-color: #800000; /* Custom property for the main color */
+}
 
 /* the styles for the footer */
 
