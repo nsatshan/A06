@@ -36,7 +36,7 @@ main h3 {
 	font-size: 105%;
 }
 
-main a:focus {
+main h3 a:focus {
     font-style: italic; /* Italicizes the link when clicked */
 }
 
