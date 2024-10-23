@@ -11,7 +11,7 @@ header img {
 
 header h2 {
 	font-size: 170%;
-	color: #800000; 
+	color: var(--global-color-1);; 
 	text-indent: 30px;
 }
 
@@ -41,10 +41,10 @@ main h3 a:focus {
 }
 
 .shadow{
-	color:#800000;
+	color:var(--global-color-1);;
 }
 :root {
-    --main-color: #800000; /* Custom property for the main color */
+    --global-color-1: #4d0080; /* Custom property for the main color */
 }
 
 /* the styles for the footer */
