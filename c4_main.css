@@ -36,4 +36,8 @@ main h3 {
 	font-size: 105%;
 }
 
+a:active {
+    font-style: italic; /* Italicizes the link when clicked */
+}
+
 /* the styles for the footer */
