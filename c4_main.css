@@ -44,7 +44,7 @@ main h3 a:hover {
 	color:var(--global-color-1);;
 }
 :root {
-    --global-color-1: #4d0080; /* Custom property for the main color */
+    --global-color-1: #800000; /* Custom property for the main color */
 }
 
 /* the styles for the footer */
